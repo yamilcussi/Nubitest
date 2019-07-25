@@ -10,12 +10,17 @@ namespace NubiTest.Api.Controllers
     [ApiController]
     public class UsuariosController : ControllerBase
     {
+        /// <summary>
+        /// Para esta funcion pude haber creado clases para interactuar
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         [Route("[controller]")]
+        
         public ActionResult<IEnumerable<NubiTest.Data.Users>> Get()
         {
-            NubiTest.Data.NubiDbContext db = new NubiTest.Data.NubiDbContext();
-            return db.Users.ToList();
+
+            return Data.Models.Get.All(new Data.Users());
 
         }
 

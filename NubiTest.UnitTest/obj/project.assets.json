@@ -7116,11 +7116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yamil\\source\\repos\\NubiTest\\NubiTest.UnitTest\\NubiTest.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\yamil\\Documents\\Nubitest\\NubiTest.UnitTest\\NubiTest.UnitTest.csproj",
       "projectName": "NubiTest.UnitTest",
-      "projectPath": "C:\\Users\\yamil\\source\\repos\\NubiTest\\NubiTest.UnitTest\\NubiTest.UnitTest.csproj",
+      "projectPath": "C:\\Users\\yamil\\Documents\\Nubitest\\NubiTest.UnitTest\\NubiTest.UnitTest.csproj",
       "packagesPath": "C:\\Users\\yamil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yamil\\source\\repos\\NubiTest\\NubiTest.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\yamil\\Documents\\Nubitest\\NubiTest.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7139,11 +7139,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\yamil\\source\\repos\\NubiTest\\NubiTest.Data\\NubiTest.Data.csproj": {
-              "projectPath": "C:\\Users\\yamil\\source\\repos\\NubiTest\\NubiTest.Data\\NubiTest.Data.csproj"
+            "C:\\Users\\yamil\\Documents\\Nubitest\\NubiTest.Data\\NubiTest.Data.csproj": {
+              "projectPath": "C:\\Users\\yamil\\Documents\\Nubitest\\NubiTest.Data\\NubiTest.Data.csproj"
             },
-            "C:\\Users\\yamil\\source\\repos\\NubiTest\\Nubitest.MercadoLibre\\NubiTest.MercadoLibre.csproj": {
-              "projectPath": "C:\\Users\\yamil\\source\\repos\\NubiTest\\Nubitest.MercadoLibre\\NubiTest.MercadoLibre.csproj"
+            "C:\\Users\\yamil\\Documents\\Nubitest\\Nubitest.MercadoLibre\\NubiTest.MercadoLibre.csproj": {
+              "projectPath": "C:\\Users\\yamil\\Documents\\Nubitest\\Nubitest.MercadoLibre\\NubiTest.MercadoLibre.csproj"
             }
           }
         }

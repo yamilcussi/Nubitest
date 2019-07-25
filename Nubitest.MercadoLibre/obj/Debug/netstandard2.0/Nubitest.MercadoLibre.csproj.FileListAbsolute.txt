@@ -7,3 +7,12 @@ C:\Users\yamil\source\repos\NubiTest\Nubitest.MercadoLibre\obj\Debug\netstandard
 C:\Users\yamil\source\repos\NubiTest\Nubitest.MercadoLibre\obj\Debug\netstandard2.0\NubiTest.MercadoLibre.AssemblyInfo.cs
 C:\Users\yamil\source\repos\NubiTest\Nubitest.MercadoLibre\obj\Debug\netstandard2.0\NubiTest.MercadoLibre.dll
 C:\Users\yamil\source\repos\NubiTest\Nubitest.MercadoLibre\obj\Debug\netstandard2.0\NubiTest.MercadoLibre.pdb
+C:\Users\yamil\Documents\Nubitest\Nubitest.MercadoLibre\bin\Debug\netstandard2.0\NubiTest.MercadoLibre.deps.json
+C:\Users\yamil\Documents\Nubitest\Nubitest.MercadoLibre\bin\Debug\netstandard2.0\NubiTest.MercadoLibre.dll
+C:\Users\yamil\Documents\Nubitest\Nubitest.MercadoLibre\bin\Debug\netstandard2.0\NubiTest.MercadoLibre.pdb
+C:\Users\yamil\Documents\Nubitest\Nubitest.MercadoLibre\obj\Debug\netstandard2.0\NubiTest.MercadoLibre.csprojAssemblyReference.cache
+C:\Users\yamil\Documents\Nubitest\Nubitest.MercadoLibre\obj\Debug\netstandard2.0\NubiTest.MercadoLibre.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Documents\Nubitest\Nubitest.MercadoLibre\obj\Debug\netstandard2.0\NubiTest.MercadoLibre.AssemblyInfoInputs.cache
+C:\Users\yamil\Documents\Nubitest\Nubitest.MercadoLibre\obj\Debug\netstandard2.0\NubiTest.MercadoLibre.AssemblyInfo.cs
+C:\Users\yamil\Documents\Nubitest\Nubitest.MercadoLibre\obj\Debug\netstandard2.0\NubiTest.MercadoLibre.dll
+C:\Users\yamil\Documents\Nubitest\Nubitest.MercadoLibre\obj\Debug\netstandard2.0\NubiTest.MercadoLibre.pdb

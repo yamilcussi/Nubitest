@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yamil\\source\\repos\\NubiTest\\NubiTest.Data\\NubiTest.Data.csproj": {}
+    "C:\\Users\\yamil\\Documents\\Nubitest\\NubiTest.Data\\NubiTest.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yamil\\source\\repos\\NubiTest\\NubiTest.Data\\NubiTest.Data.csproj": {
+    "C:\\Users\\yamil\\Documents\\Nubitest\\NubiTest.Data\\NubiTest.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yamil\\source\\repos\\NubiTest\\NubiTest.Data\\NubiTest.Data.csproj",
+        "projectUniqueName": "C:\\Users\\yamil\\Documents\\Nubitest\\NubiTest.Data\\NubiTest.Data.csproj",
         "projectName": "NubiTest.Data",
-        "projectPath": "C:\\Users\\yamil\\source\\repos\\NubiTest\\NubiTest.Data\\NubiTest.Data.csproj",
+        "projectPath": "C:\\Users\\yamil\\Documents\\Nubitest\\NubiTest.Data\\NubiTest.Data.csproj",
         "packagesPath": "C:\\Users\\yamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yamil\\source\\repos\\NubiTest\\NubiTest.Data\\obj\\",
+        "outputPath": "C:\\Users\\yamil\\Documents\\Nubitest\\NubiTest.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
