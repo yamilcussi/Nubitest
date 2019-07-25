@@ -1,0 +1,17 @@
+C:\Users\yamil\source\repos\NubiTest\NubiTest\bin\Debug\netcoreapp2.1\NubiTest.Api.deps.json
+C:\Users\yamil\source\repos\NubiTest\NubiTest\bin\Debug\netcoreapp2.1\NubiTest.Api.runtimeconfig.json
+C:\Users\yamil\source\repos\NubiTest\NubiTest\bin\Debug\netcoreapp2.1\NubiTest.Api.runtimeconfig.dev.json
+C:\Users\yamil\source\repos\NubiTest\NubiTest\bin\Debug\netcoreapp2.1\NubiTest.Api.dll
+C:\Users\yamil\source\repos\NubiTest\NubiTest\bin\Debug\netcoreapp2.1\NubiTest.Api.pdb
+C:\Users\yamil\source\repos\NubiTest\NubiTest\bin\Debug\netcoreapp2.1\NubiTest.MercadoLibre.dll
+C:\Users\yamil\source\repos\NubiTest\NubiTest\bin\Debug\netcoreapp2.1\NubiTest.MercadoLibre.pdb
+C:\Users\yamil\source\repos\NubiTest\NubiTest\obj\Debug\netcoreapp2.1\NubiTest.Api.csprojAssemblyReference.cache
+C:\Users\yamil\source\repos\NubiTest\NubiTest\obj\Debug\netcoreapp2.1\NubiTest.Api.csproj.CoreCompileInputs.cache
+C:\Users\yamil\source\repos\NubiTest\NubiTest\obj\Debug\netcoreapp2.1\NubiTest.Api.RazorAssemblyInfo.cache
+C:\Users\yamil\source\repos\NubiTest\NubiTest\obj\Debug\netcoreapp2.1\NubiTest.Api.RazorAssemblyInfo.cs
+C:\Users\yamil\source\repos\NubiTest\NubiTest\obj\Debug\netcoreapp2.1\NubiTest.Api.AssemblyInfoInputs.cache
+C:\Users\yamil\source\repos\NubiTest\NubiTest\obj\Debug\netcoreapp2.1\NubiTest.Api.AssemblyInfo.cs
+C:\Users\yamil\source\repos\NubiTest\NubiTest\obj\Debug\netcoreapp2.1\NubiTest.Api.RazorTargetAssemblyInfo.cache
+C:\Users\yamil\source\repos\NubiTest\NubiTest\obj\Debug\netcoreapp2.1\NubiTest.Api.csproj.CopyComplete
+C:\Users\yamil\source\repos\NubiTest\NubiTest\obj\Debug\netcoreapp2.1\NubiTest.Api.dll
+C:\Users\yamil\source\repos\NubiTest\NubiTest\obj\Debug\netcoreapp2.1\NubiTest.Api.pdb
