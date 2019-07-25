@@ -14,7 +14,7 @@ namespace NubiTest.MercadoLibre.Countries
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri("https://api.mercadolibre.com/classified_locations/countries/");
-                var responseTask = client.GetAsync(CodigoPais);
+                var responseTask = client.GetAsync(CodigoPais.ToUpper());
                 responseTask.Wait();
                 var result = responseTask.Result;
                 if (result.IsSuccessStatusCode)
