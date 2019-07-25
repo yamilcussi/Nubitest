@@ -12,7 +12,7 @@ namespace NubiTest.Data.Models
             try
             {
                 NubiTest.Data.NubiDbContext db = new NubiTest.Data.NubiDbContext();
-                var usuario = db.Users.FirstOrDefault();
+                var usuario = db.Users.FirstOrDefault(d=>d.Id==model.Id);
                 db.Users.Remove(usuario);
                 db.SaveChanges();
                 return string.Empty;

@@ -12,7 +12,7 @@ namespace NubiTest.Data.Models
             try
             {
                 NubiTest.Data.NubiDbContext db = new NubiTest.Data.NubiDbContext();
-                var usuario = db.Users.FirstOrDefault();
+                var usuario = db.Users.FirstOrDefault(d => d.Id == model.Id);
                 usuario.Password = model.Password;
                 usuario.Nombre = model.Nombre;
                 usuario.Apellido = model.Apellido;

@@ -1,0 +1,11 @@
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\bin\Release\netcoreapp2.2\NubiTest.Data.deps.json
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\bin\Release\netcoreapp2.2\NubiTest.Data.runtimeconfig.json
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\bin\Release\netcoreapp2.2\NubiTest.Data.runtimeconfig.dev.json
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\bin\Release\netcoreapp2.2\NubiTest.Data.dll
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\bin\Release\netcoreapp2.2\NubiTest.Data.pdb
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\obj\Release\netcoreapp2.2\NubiTest.Data.csprojAssemblyReference.cache
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\obj\Release\netcoreapp2.2\NubiTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\obj\Release\netcoreapp2.2\NubiTest.Data.AssemblyInfoInputs.cache
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\obj\Release\netcoreapp2.2\NubiTest.Data.AssemblyInfo.cs
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\obj\Release\netcoreapp2.2\NubiTest.Data.dll
+C:\Users\yamil\Documents\Nubitest\NubiTest.Data\obj\Release\netcoreapp2.2\NubiTest.Data.pdb
